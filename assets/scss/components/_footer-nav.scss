@@ -1,0 +1,11 @@
+.footer-nav-link {
+    color: rgba(255,255,255, .7);
+    transition: color linear .2s;
+    text-decoration: none;
+    display: block;
+    margin-bottom: .5rem;
+    
+    &:hover {
+        color: $primary;
+    }
+}

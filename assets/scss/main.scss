@@ -1,0 +1,21 @@
+/* Sass variables */
+@import "./abstracts/variables";
+
+/*Bootstrap core imports */
+@import "~bootstrap/scss/bootstrap";
+
+/* Template CSS variables */
+@import "./abstracts/css-variables";
+
+/* Template components */
+@import "./components/accordion";
+@import "./components/button";
+@import "./components/footer-nav";
+@import "./components/logo";
+@import "./components/navbar";
+@import "./components/pricing-table";
+@import "./components/subtitle";
+
+/* Template utility imports */
+@import "./utilities/sizing";
+@import "./utilities/text";

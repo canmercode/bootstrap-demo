@@ -1,0 +1,11 @@
+<!-- /Logo Cloud -->
+      <div class="d-flex justify-content-center flex-wrap gap-5">
+        <img class="logo" src="https://sigma-vert.vercel.app/assets/images/logos/logo-17.svg" alt="">
+        <img class="logo" src="https://sigma-vert.vercel.app/assets/images/logos/logo-18.svg" alt="">
+        <img class="logo" src="https://sigma-vert.vercel.app/assets/images/logos/logo-19.svg" alt="">
+        <img class="logo" src="https://sigma-vert.vercel.app/assets/images/logos/logo-20.svg" alt="">
+        <img class="logo" src="https://sigma-vert.vercel.app/assets/images/logos/logo-21.svg" alt="">
+        <img class="logo" src="https://sigma-vert.vercel.app/assets/images/logos/logo-22.svg" alt="">
+      </div>
+    </div>
+    <!-- Faqs -->
