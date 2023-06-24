@@ -1,3 +1,3 @@
 # bootstrap-demo
 
-A bootstrap 5 demo
+A responsive HTML Bootstrap 5 business or marketing template
